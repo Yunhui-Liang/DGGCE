@@ -1,2 +1,2 @@
 # DGGCE
-the code of "Graph Filtering-Enhanced Granular-Ball Computing for Large-Scale Clustering Ensembles"
+the code of "Diversity-Enhanced Granular-Ball Clustering Ensemble with Graph Filtering" ICASSP_2026
